@@ -1,0 +1,84 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:6278702147929244059",
+      "lastPropertyId": "12:5659086485736287884",
+      "name": "FavoCocktail",
+      "properties": [
+        {
+          "id": "1:1233369493998187560",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:7732725921668307393",
+          "name": "cockName",
+          "type": 9
+        },
+        {
+          "id": "3:5452146634112032238",
+          "name": "cockEng",
+          "type": 9
+        },
+        {
+          "id": "4:1253163115172292977",
+          "name": "cockBase",
+          "type": 9
+        },
+        {
+          "id": "5:5324107409889602791",
+          "name": "cockAlchol",
+          "type": 9
+        },
+        {
+          "id": "6:3947903744252343530",
+          "name": "cockDesc",
+          "type": 9
+        },
+        {
+          "id": "7:4157223011433202088",
+          "name": "cockTaste",
+          "type": 9
+        },
+        {
+          "id": "8:7375654059421538081",
+          "name": "cockStyle",
+          "type": 9
+        },
+        {
+          "id": "9:3276429789356015322",
+          "name": "cockDigest",
+          "type": 9
+        },
+        {
+          "id": "11:685332017639020038",
+          "name": "listS",
+          "type": 30
+        },
+        {
+          "id": "12:5659086485736287884",
+          "name": "color",
+          "type": 9
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:6278702147929244059",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    7374548566631287907
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}

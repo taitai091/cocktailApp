@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "645473362429",
+    "project_id": "barapp-fadb6",
+    "storage_bucket": "barapp-fadb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645473362429:android:a792ab480f97fbedaa3994",
+        "android_client_info": {
+          "package_name": "com.example.barapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645473362429-d4guku0m3n6rb1lbg87ckhvcnnldafaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN1q49vjr5w-i_CxBpG9oUw41UqXM1ZCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645473362429-d4guku0m3n6rb1lbg87ckhvcnnldafaa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "645473362429-aeu24dtdd15jd0qphp2fqvlqubkroj3b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.barapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
